@@ -17,6 +17,10 @@ I help organizations turn AI from a buzzword into reliable workflows: strategy, 
 
 My perspective is shaped by three worlds: state practice, law-firm reality, and hands-on AI tooling. That mix helps me translate between management, lawyers, engineers, and operators.
 
+## Public work
+
+- [Elite Prompt Optimizer](https://github.com/baumar73/elite-prompt-optimizer) — MIT-licensed Hermes Agent skill for structured prompt optimization.
+
 ## Kurzprofil
 
 Ich war Polizist, danach Rechtsanwalt und Fachanwalt für Arbeitsrecht sowie Fachanwalt für Miet- und Wohnungseigentumsrecht. Heute lebe ich in Panama und berate Unternehmen und Kanzleien weltweit beim sinnvollen, sicheren und produktiven Einsatz von KI.
