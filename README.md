@@ -1,26 +1,21 @@
 # Markus Oliver Bauer · @baumar73
 
-I combine public-service experience, German legal expertise, and practical AI implementation.
+Former police officer. Former German attorney. Certified specialist lawyer (*Fachanwalt*) for employment law and tenancy / condominium law. Entrepreneur and AI consultant, based in Panama.
 
-## Background
+I help companies and law firms turn AI into practical workflows: agentic systems, automation, document pipelines, legal-tech processes, and operational AI adoption.
 
-- Former police officer.
-- Former attorney in Germany.
-- Certified specialist lawyer (*Fachanwalt*) for employment law.
-- Certified specialist lawyer (*Fachanwalt*) for tenancy and condominium / WEG law.
-- Based in Panama, working internationally.
-- AI consultant for companies and law firms worldwide.
+## Focus
 
-## What I do now
-
-I help organizations turn AI from a buzzword into reliable workflows: strategy, automation, agentic systems, legal-tech processes, document pipelines, and practical implementation for teams that need results rather than slideware.
-
-My perspective is shaped by three worlds: state practice, law-firm reality, and hands-on AI tooling. That mix helps me translate between management, lawyers, engineers, and operators.
+- AI strategy and implementation
+- Agentic workflows and skill systems
+- Legal tech, document automation, process design
+- Practical translation between lawyers, operators, engineers, and management
 
 ## Public work
 
+- [JSTACK](https://github.com/baumar73/j-stack-skill-system) — MIT-licensed skill collection for agentic AI work.
 - [Elite Prompt Optimizer](https://github.com/baumar73/elite-prompt-optimizer) — MIT-licensed Hermes Agent skill for structured prompt optimization.
 
 ## Kurzprofil
 
-Ich war Polizist, danach Rechtsanwalt und Fachanwalt für Arbeitsrecht sowie Fachanwalt für Miet- und Wohnungseigentumsrecht. Heute lebe ich in Panama und berate Unternehmen und Kanzleien weltweit beim sinnvollen, sicheren und produktiven Einsatz von KI.
+Polizist → Rechtsanwalt → Fachanwalt für Arbeitsrecht und Miet- und Wohnungseigentumsrecht → Unternehmer und KI-Berater in Panama.
